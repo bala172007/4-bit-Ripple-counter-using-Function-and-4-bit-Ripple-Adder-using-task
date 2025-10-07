@@ -73,7 +73,6 @@ endmodule
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/04826c3a-d45d-4825-b74f-b87183f2db4e" />
 
 # 4 bit Ripple counter using Function
-// 
 ```verilog
 module ripple_counter_func (
     input clk, rst,
